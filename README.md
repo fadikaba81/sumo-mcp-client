@@ -1,6 +1,6 @@
 # sumo-mcp
 
-
+```
 +------------------+
 | Go Application   |
 | (MCP Client)     |
@@ -20,3 +20,4 @@
 | Search / Logs    |
 | Metrics / Traces |
 +------------------+
+```
